@@ -1,0 +1,4 @@
+previous_score: 2
+highest_score: 2
+lowest_score: 9
+games_played: 6

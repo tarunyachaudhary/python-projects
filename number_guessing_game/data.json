@@ -1,0 +1,32 @@
+{
+    "Tarun": {
+        "previous score": 8,
+        "highest score": 6,
+        "lowest score": 9,
+        "games played": 5
+    },
+    "Arun": {
+        "previous score": 9,
+        "highest score": 6,
+        "lowest score": 9,
+        "games played": 2
+    },
+    "agni": {
+        "previous score": 9,
+        "highest score": 9,
+        "lowest score": 9,
+        "games played": 1
+    },
+    "Abhi": {
+        "previous score": 7,
+        "highest score": 7,
+        "lowest score": 7,
+        "games played": 1
+    },
+    "varun": {
+        "previous score": 7,
+        "highest score": 6,
+        "lowest score": 7,
+        "games played": 2
+    }
+}
