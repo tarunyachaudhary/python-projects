@@ -220,7 +220,7 @@ class UserUpdateConcreteClass(UserUpdateAbstractClass):
                     print("Invalid choice! Please try again.")
 
 
-# Program entry point
+# Run program
 if __name__ == "__main__":
     obj = UserUpdateConcreteClass()
     obj.user_profile_update()
